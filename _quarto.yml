@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "personal-website"
+  title: "Andre Hiwatig"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - spacelab
       - brand
     css: styles.css
     toc: true
