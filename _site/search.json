@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Andre Hiwatig",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Andre Hiwatig is a senior at University of California, Los Angeles, studyign Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work.\nDownload my resume here"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andre Hiwatig",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Andre Hiwatig",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "projects",
+    "section": "PROJECT 2",
+    "text": "PROJECT 2"
   }
 ]

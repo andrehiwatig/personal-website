@@ -1,11 +1,28 @@
 ---
-title: "personal-website"
+title: "Andre Hiwatig"
+about:
+  template: trestles
+  image: andre_bio.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/andrehiwatig
+    - text: Email
+      url: "mailto:hiwatig.andre@gmail.com"
 ---
 
-This is a Quarto website.
+Andre Hiwatig is a senior at University of California, Los Angeles, studyign Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Download my resume [here](ahiwatig-resume.pdf)
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+
+Macalester College \| St. Paul, MN B.A in Economics \| Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics \| Head Data Scientist \| April 2018 - present
+
+GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
