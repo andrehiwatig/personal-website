@@ -11,18 +11,21 @@ about:
       url: "mailto:hiwatig.andre@gmail.com"
 ---
 
-Andre Hiwatig is a senior at University of California, Los Angeles, studyign Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work. 
+Andre Hiwatig is a senior at University of California, Los Angeles, studying Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work. 
 
 Download my resume [here](ahiwatig-resume.pdf)
 
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+University of California, Los Angeles \| Los Angeles, CA 
 
-Macalester College \| St. Paul, MN B.A in Economics \| Sept 2007 - June 2011
+B.S. Statistics and Data Science, Minor in Education Studies \| September 2021 - June 2025
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+Mars Wrigley \| Data Science Intern \| June 2024 - August 2024
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+UCLA Residential Life \| Lead Data Research Assistant \| March 2023 - Present
+
+UCLA Residential Life \| Lead Resident Assistant \| August 2022 - Present
+

@@ -1,0 +1,34 @@
+---
+title: "Latine Subgroup Analysis"
+image: proj1.2.png
+---
+
+## Introduction
+
+This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We
+utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22,
+2022-23, and 2023-24 UCLA academic years. 
+
+This report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities.
+
+## Tools Used
+R, Tableau
+
+## Process
+* Filtered data from three years of student surveys and standardized columns
+* Cleaned text data from free-response questions
+* Modified dataset for Tableau compatibility
+* Generated report in Tableau
+
+## Summary of Findings
+* Latine students attend floor and Hill events more often compared to Non-Latine students.
+* Latine students discussed academic work or research outside of class with people
+different than them less than Non-Latine students.
+* Mexican students engaged in discussions with others different than them less often than
+their Non-Mexican counterparts. 
+
+*Code ommitted for data privacy*
+
+## Sample Graphics
+![](proj1.1.png)
+

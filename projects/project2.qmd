@@ -1,0 +1,24 @@
+---
+title: "Demand Transference Accelerator"
+image: proj2.png
+---
+
+## Introduction
+I explored sales of different candy products across international markets to understand the dynamics of demand transference of Mars Wrigley products.
+
+## Process
+* Encoded 40+ features using domain knowledge about market categories
+* Filtering and aggregating over 1 billion rows of product sales data
+* Feature engineered for model efficiency
+* Calculated product similarities for all retailer purchases
+* Presented predicted demand transference values to international stakeholders 
+
+## Tools Used
+Python, PySpark, PowerBI
+
+## Summary of Findings
+* Product brand was a strong indicator of transference in chocolate products.
+* Random forest model optimized accelerator run time by 50%.
+
+*Code ommitted for data privacy*
+

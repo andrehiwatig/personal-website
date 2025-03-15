@@ -4,28 +4,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Andre Hiwatig\nYes\nNo\nNegotiable\n\n\n\n\nU.S. Citizen\n☑\n\n\n\n\nAuthorized to work in the U.S.\n☑\n\n\n\n\nRelocation for work\n\n\n☑\n\n\nOn-site/Hybrid/Remote\n☑"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Andre Hiwatig",
     "section": "",
-    "text": "Andre Hiwatig is a senior at University of California, Los Angeles, studyign Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work.\nDownload my resume here"
+    "text": "Andre Hiwatig is a senior at University of California, Los Angeles, studying Statistics and Data Science. In his spare time, Andre enjoys many creative pursuits in design and art, which he likes implementing into his work.\nDownload my resume here"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Andre Hiwatig",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. Statistics and Data Science, Minor in Education Studies | September 2021 - June 2025"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Andre Hiwatig",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nMars Wrigley | Data Science Intern | June 2024 - August 2024\nUCLA Residential Life | Lead Data Research Assistant | March 2023 - Present\nUCLA Residential Life | Lead Resident Assistant | August 2022 - Present"
   },
   {
     "objectID": "projects.html#project-2",
@@ -33,5 +33,131 @@
     "title": "projects",
     "section": "PROJECT 2",
     "text": "PROJECT 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Demand Transference Accelerator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLatine Subgroup Analysis\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Latine Subgroup Analysis",
+    "section": "",
+    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years.\nThis report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Demand Transference Accelerator",
+    "section": "",
+    "text": "I explored sales of different candy products across international markets to understand the dynamics of demand transference of Mars Wrigley products."
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "asdf"
+  },
+  {
+    "objectID": "projects/project1.html#introduction",
+    "href": "projects/project1.html#introduction",
+    "title": "Latine Subgroup Analysis",
+    "section": "",
+    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years.\nThis report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
+  },
+  {
+    "objectID": "projects/project1.html#tools-used",
+    "href": "projects/project1.html#tools-used",
+    "title": "Latine Subgroup Analysis",
+    "section": "Tools Used",
+    "text": "Tools Used\nR, Tableau"
+  },
+  {
+    "objectID": "projects/project1.html#summary-of-findings",
+    "href": "projects/project1.html#summary-of-findings",
+    "title": "Latine Subgroup Analysis",
+    "section": "Summary of Findings",
+    "text": "Summary of Findings\n\nLatine students attend floor and Hill events more often compared to Non-Latine students.\nLatine students discussed academic work or research outside of class with people different than them less than Non-Latine students.\nMexican students engaged in discussions with others different than them less often than their Non-Mexican counterparts.\n\nCode ommitted for data privacy"
+  },
+  {
+    "objectID": "projects/project2.html#introduction",
+    "href": "projects/project2.html#introduction",
+    "title": "Demand Transference Accelerator",
+    "section": "",
+    "text": "I explored sales of different candy products across international markets to understand the dynamics of demand transference of Mars Wrigley products."
+  },
+  {
+    "objectID": "projects/project2.html#tools-used",
+    "href": "projects/project2.html#tools-used",
+    "title": "Demand Transference Accelerator",
+    "section": "Tools Used",
+    "text": "Tools Used\nPython, PySpark, PowerBI"
+  },
+  {
+    "objectID": "projects/project2.html#summary-of-findings",
+    "href": "projects/project2.html#summary-of-findings",
+    "title": "Demand Transference Accelerator",
+    "section": "Summary of Findings",
+    "text": "Summary of Findings\n\nProduct brand was a strong indicator of transference in chocolate products.\nRandom forest model optimized accelerator run time by 50%.\n\nCode ommitted for data privacy"
+  },
+  {
+    "objectID": "projects/project2.html#process",
+    "href": "projects/project2.html#process",
+    "title": "Demand Transference Accelerator",
+    "section": "Process",
+    "text": "Process\n\nEncoded 40+ features using domain knowledge about market categories\nFiltering and aggregating over 1 billion rows of product sales data\nFeature engineered for model efficiency\nCalculated product similarities for all retailer purchases\nPresented predicted demand transference values based on product features."
+  },
+  {
+    "objectID": "projects/project1.html#sample-graphics",
+    "href": "projects/project1.html#sample-graphics",
+    "title": "Latine Subgroup Analysis",
+    "section": "Sample Graphics",
+    "text": "Sample Graphics"
+  },
+  {
+    "objectID": "projects/project1.html#process",
+    "href": "projects/project1.html#process",
+    "title": "Latine Subgroup Analysis",
+    "section": "Process",
+    "text": "Process\n\nFiltered data from three years of student surveys and standardized columns\nCleaned text data from free-response questions\nModified dataset for Tableau compatibility\nGenerated report in Tableau"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\n\nFirst-generation student based in Los Angeles, CA\nLanguages:\n\nEnglish\nTagalog"
+  },
+  {
+    "objectID": "about.html#good-to-know",
+    "href": "about.html#good-to-know",
+    "title": "About",
+    "section": "",
+    "text": "Andre Hiwatig\nYes\nNo\nNegotiable\n\n\n\n\nU.S. Citizen\n☑\n\n\n\n\nAuthorized to work in the U.S.\n☑\n\n\n\n\nRelocation for work\n\n\n☑\n\n\nOn-site/Hybrid/Remote\n☑"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Andre Hiwatig\nYes\nNo\nNegotiable\n\n\n\n\nU.S. Citizen\n☑\n\n\n\n\nAuthorized to work in the U.S.\n☑\n\n\n\n\nRelocation for work\n\n\n☑\n\n\nOn-site/Hybrid/Remote\n☑"
+  },
+  {
+    "objectID": "about.html#open-to-work",
+    "href": "about.html#open-to-work",
+    "title": "About",
+    "section": "",
+    "text": "Andre Hiwatig\nYes\nNo\nNegotiable\n\n\n\n\nU.S. Citizen\n☑\n\n\n\n\nAuthorized to work in the U.S.\n☑\n\n\n\n\nRelocation for work\n\n\n☑\n\n\nOn-site/Hybrid/Remote\n☑"
+  },
+  {
+    "objectID": "about.html#hobbies-and-interests",
+    "href": "about.html#hobbies-and-interests",
+    "title": "About",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\nArt/Dseign\nAcapella Performance\nHigher Education Research\nRunning, Lifting, Hiking (anything active!)"
   }
 ]

@@ -2,8 +2,24 @@
 title: "About"
 ---
 
-About this site
+## Open to Work
+| Andre Hiwatig |Yes| No | Negotiable |
+|---------|:-----|------:|:------:|
+| U.S. Citizen      |&#x2611;|    |     |
+| Authorized to work in the U.S.     |&#x2611;  |    |     |
+| Relocation for work       |    |    |&#x2611;    |
+| On-site/Hybrid/Remote	       |&#x2611;     |     |     |
 
-```{r}
-1 + 1
-```
+    
+
+## Background
+* First-generation student based in Los Angeles, CA
+* Languages:
+  + English
+  + Tagalog
+  
+## Hobbies and Interests
+* Art/Dseign
+* Acapella Performance
+* Higher Education Research
+* Running, Lifting, Hiking (anything active!)

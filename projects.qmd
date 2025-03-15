@@ -1,7 +1,8 @@
 ---
-title: "projects"
+title: "Projects"
+listing:
+  contents:
+    - "projects/*.qmd"
+  fields: [title, image]
+  type: grid
 ---
-
-## PROJECT 1
-
-## PROJECT 2
