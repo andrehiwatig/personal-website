@@ -14,8 +14,7 @@ website:
 format:
   html:
     theme:
-      - sandstone
-      - brand
+      - flatly
     css: styles.css
     toc: true
 

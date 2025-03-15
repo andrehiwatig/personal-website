@@ -46,7 +46,7 @@
     "href": "projects/project1.html",
     "title": "Latine Subgroup Analysis",
     "section": "",
-    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years.\nThis report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
+    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years. This report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
   },
   {
     "objectID": "projects/project2.html",
@@ -67,7 +67,7 @@
     "href": "projects/project1.html#introduction",
     "title": "Latine Subgroup Analysis",
     "section": "",
-    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years.\nThis report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
+    "text": "This report looks at various data about Latine students living on in UCLA dormitories from 2021-24. We utilized responses to Rate the Hill 2023-24 along with demographic data from the 2021-22, 2022-23, and 2023-24 UCLA academic years. This report further aggregates data about Latine students into smaller subgroups: Mexican and non-Mexican in order to understand deeper nuances between ethnic identities."
   },
   {
     "objectID": "projects/project1.html#tools-used",
@@ -81,7 +81,7 @@
     "href": "projects/project1.html#summary-of-findings",
     "title": "Latine Subgroup Analysis",
     "section": "Summary of Findings",
-    "text": "Summary of Findings\n\nLatine students attend floor and Hill events more often compared to Non-Latine students.\nLatine students discussed academic work or research outside of class with people different than them less than Non-Latine students.\nMexican students engaged in discussions with others different than them less often than their Non-Mexican counterparts.\n\nCode ommitted for data privacy"
+    "text": "Summary of Findings\n\nLatine students attend floor and Hill events more often compared to Non-Latine students.\nLatine students discussed academic work or research outside of class with people different than them less than Non-Latine students.\nMexican students engaged in discussions with others different than them less often than their Non-Mexican counterparts.\n\nCode omitted per company policy"
   },
   {
     "objectID": "projects/project2.html#introduction",
@@ -102,14 +102,14 @@
     "href": "projects/project2.html#summary-of-findings",
     "title": "Demand Transference Accelerator",
     "section": "Summary of Findings",
-    "text": "Summary of Findings\n\nProduct brand was a strong indicator of transference in chocolate products.\nRandom forest model optimized accelerator run time by 50%.\n\nCode ommitted for data privacy"
+    "text": "Summary of Findings\n\nProduct brand was a strong indicator of transference in chocolate products.\nRandom forest model optimized accelerator run time by 50%.\n\nCode omitted per company policy"
   },
   {
     "objectID": "projects/project2.html#process",
     "href": "projects/project2.html#process",
     "title": "Demand Transference Accelerator",
     "section": "Process",
-    "text": "Process\n\nEncoded 40+ features using domain knowledge about market categories\nFiltering and aggregating over 1 billion rows of product sales data\nFeature engineered for model efficiency\nCalculated product similarities for all retailer purchases\nPresented predicted demand transference values based on product features."
+    "text": "Process\n\nEncoded 40+ features using domain knowledge about market categories\nFiltering and aggregating over 1 billion rows of product sales data\nFeature engineered for model efficiency\nCalculated product similarities for all retailer purchases\nPresented predicted demand transference values to international stakeholders"
   },
   {
     "objectID": "projects/project1.html#sample-graphics",

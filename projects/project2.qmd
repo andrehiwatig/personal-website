@@ -20,5 +20,5 @@ Python, PySpark, PowerBI
 * Product brand was a strong indicator of transference in chocolate products.
 * Random forest model optimized accelerator run time by 50%.
 
-*Code ommitted for data privacy*
+*Code omitted per company policy*
 
